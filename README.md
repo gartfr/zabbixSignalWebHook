@@ -10,7 +10,7 @@ number : {ALERT.SENDTO} - Here you can put your source phone number from a macro
 
 recipients : {ALERT.SENDTO} - Here you put the destination phone numbers, it can be a list in a macro from Zabbix
 
-URL : signal.exmaple.com:8080 - Is the address of you signal REST API
+URL : signal.example.com:8080 - Is the address of you signal REST API
 
 For the REST Signal API I'm using : https://github.com/bbernhard/signal-cli-rest-api
 
